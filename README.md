@@ -59,5 +59,3 @@ menu-app/
 2. List Users
 0. Exit
 ```
-
-Enjoy coding!
